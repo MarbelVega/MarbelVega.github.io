@@ -13,6 +13,10 @@ permalink: /
 
 # CHRISTIAN PERSONAL HOMEPAGE
 
+## CV
+
+[**Christian Vega**](https://drive.google.com/file/d/13yvVnSvYO5ruuu1gSyFN5NPhfly1fORN/view?usp=sharing)
+
 ##  AREAS OF KNOWLEDGE
 *	Pentester and computer security profesional since 2016
 *	Business Contiuity Manager based on DRII, BCI and ISO 22301 and ISO31000
@@ -25,16 +29,16 @@ permalink: /
 ##  PUBLIC TALKS
 * [**Hardening on servers**](https://youtu.be/etEYmnBp8ak)
 * [**Security in web applications under OWASP Top 10**](https://www.facebook.com/1538400019767318/videos/641185569803869)
+
 ##  LANGUAGES
 *	English(advanced)
 *	Japanese(intermediate) 
 *	Spanish (native)
+
 ##  HOBBIES
 *	Play the piano
 *	Sing
 *	Cook
 
-## CV
 
-[**Christian Vega**](https://drive.google.com/file/d/13yvVnSvYO5ruuu1gSyFN5NPhfly1fORN/view?usp=sharing)
 
