@@ -11,31 +11,30 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# CHRISTIAN PERSONAL HOMEPAGE
 
-##  Features
-* Highly customizable, content-oriented with The Matrix style
-* Eyesight-protection layout
-* Decrypt and encrypt text (access token: 233): 
-  * secret msg 1: 
-  <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
-  * secret msg 2: 
-  <p class="encrypted" id="G7D+0370pNmixIP1j7teCg1jtm9XCdOWYFH61lcM0LYWlT0hB3rS9raIs=">Encrypted content!</p>
-* LaTeX formula Support with MathJax
+##  AREAS OF KNOWLEDGE
+*	Pentester and computer security profesional since 2016
+*	Business Contiuity Manager based on DRII, BCI and ISO 22301 and ISO31000
+*	Software solutions architect under SCRUM methodology with C#,Java,php, python
+*	Inbound Marketing Certified and E-Commerce platforms implementer
+*	Good technical background managing virtualization with KVM and Docker
+*	Experience leading a team of 30 people on institutions
+*	Good knowledge of new technologies in general.
 
-$$
-NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
-$$
+##  PUBLIC TALKS
+* Hardening on servers https://youtu.be/etEYmnBp8ak
+* Security in web applications under OWASP Top 10 https://www.facebook.com/1538400019767318/videos/641185569803869
+##  LANGUAGES
+*	English(advanced)
+*	Japanese(intermediate) 
+*	Spanish (native)
+##  HOBBIES
+*	Play the piano
+*	Sing
+*	Cook
 
-* Code highlight with Rouge
+## CV
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-## Download and Documentation
-
-[**pRoJEct NeGYa (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
+[**Christian Vega**](https://drive.google.com/file/d/13yvVnSvYO5ruuu1gSyFN5NPhfly1fORN/view?usp=sharing)
 
