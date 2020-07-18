@@ -23,8 +23,8 @@ permalink: /
 *	Good knowledge of new technologies in general.
 
 ##  PUBLIC TALKS
-* Hardening on servers https://youtu.be/etEYmnBp8ak
-* Security in web applications under OWASP Top 10 https://www.facebook.com/1538400019767318/videos/641185569803869
+* [**Hardening on servers**](https://youtu.be/etEYmnBp8ak)
+* [**Security in web applications under OWASP Top 10**](https://www.facebook.com/1538400019767318/videos/)641185569803869
 ##  LANGUAGES
 *	English(advanced)
 *	Japanese(intermediate) 
